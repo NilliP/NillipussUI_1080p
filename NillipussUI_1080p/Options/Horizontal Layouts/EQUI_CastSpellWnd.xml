@@ -97,6 +97,29 @@
     <AlignRight>false</AlignRight>
     <Text>Complete Healing</Text>
   </Label>
+  <Label item="CSPW_Spell0_Name_BG">
+    <ScreenID>CSPW_Spell0_Name_BG</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>0</X>
+      <Y>15</Y>
+    </Location>
+    <Size>
+      <CX>42</CX>
+      <CY>24</CY>
+    </Size>
+    <EQType>60</EQType>
+    <TextColor>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+    </TextColor>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+    <Text>Complete Healing</Text>
+  </Label>
   <SpellGem item="CSPW_Spell1">
     <ScreenID>CSPW_Spell1</ScreenID>
     <RelativePosition>true</RelativePosition>
@@ -133,6 +156,28 @@
       <R>255</R>
       <G>255</G>
       <B>255</B>
+    </TextColor>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </Label>
+  <Label item="CSPW_Spell1_Name_BG">
+    <ScreenID>CSPW_Spell1_Name_BG</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>42</X>
+      <Y>15</Y>
+    </Location>
+    <Size>
+      <CX>42</CX>
+      <CY>24</CY>
+    </Size>
+    <EQType>61</EQType>
+    <TextColor>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
     </TextColor>
     <NoWrap>false</NoWrap>
     <AlignCenter>true</AlignCenter>
@@ -179,6 +224,28 @@
     <AlignCenter>true</AlignCenter>
     <AlignRight>false</AlignRight>
   </Label>
+  <Label item="CSPW_Spell2_Name_BG">
+    <ScreenID>CSPW_Spell2_Name_BG</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>84</X>
+      <Y>15</Y>
+    </Location>
+    <Size>
+      <CX>42</CX>
+      <CY>24</CY>
+    </Size>
+    <EQType>62</EQType>
+    <TextColor>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+    </TextColor>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </Label>
   <SpellGem item="CSPW_Spell3">
     <ScreenID>CSPW_Spell3</ScreenID>
     <RelativePosition>true</RelativePosition>
@@ -215,6 +282,28 @@
       <R>255</R>
       <G>255</G>
       <B>255</B>
+    </TextColor>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </Label>
+  <Label item="CSPW_Spell3_Name_BG">
+    <ScreenID>CSPW_Spell3_Name_BG</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>126</X>
+      <Y>15</Y>
+    </Location>
+    <Size>
+      <CX>42</CX>
+      <CY>24</CY>
+    </Size>
+    <EQType>63</EQType>
+    <TextColor>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
     </TextColor>
     <NoWrap>false</NoWrap>
     <AlignCenter>true</AlignCenter>
@@ -261,6 +350,28 @@
     <AlignCenter>true</AlignCenter>
     <AlignRight>false</AlignRight>
   </Label>
+  <Label item="CSPW_Spell4_Name_BG">
+    <ScreenID>CSPW_Spell4_Name_BG</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>168</X>
+      <Y>15</Y>
+    </Location>
+    <Size>
+      <CX>42</CX>
+      <CY>24</CY>
+    </Size>
+    <EQType>64</EQType>
+    <TextColor>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+    </TextColor>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </Label>
   <SpellGem item="CSPW_Spell5">
     <ScreenID>CSPW_Spell5</ScreenID>
     <RelativePosition>true</RelativePosition>
@@ -297,6 +408,28 @@
       <R>255</R>
       <G>255</G>
       <B>255</B>
+    </TextColor>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </Label>
+  <Label item="CSPW_Spell5_Name_BG">
+    <ScreenID>CSPW_Spell5_Name_BG</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>210</X>
+      <Y>15</Y>
+    </Location>
+    <Size>
+      <CX>42</CX>
+      <CY>24</CY>
+    </Size>
+    <EQType>65</EQType>
+    <TextColor>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
     </TextColor>
     <NoWrap>false</NoWrap>
     <AlignCenter>true</AlignCenter>
@@ -343,6 +476,28 @@
     <AlignCenter>true</AlignCenter>
     <AlignRight>false</AlignRight>
   </Label>
+  <Label item="CSPW_Spell6_Name_BG">
+    <ScreenID>CSPW_Spell6_Name_BG</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>252</X>
+      <Y>15</Y>
+    </Location>
+    <Size>
+      <CX>42</CX>
+      <CY>24</CY>
+    </Size>
+    <EQType>66</EQType>
+    <TextColor>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+    </TextColor>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </Label>
   <SpellGem item="CSPW_Spell7">
     <ScreenID>CSPW_Spell7</ScreenID>
     <RelativePosition>true</RelativePosition>
@@ -384,6 +539,28 @@
     <AlignCenter>true</AlignCenter>
     <AlignRight>false</AlignRight>
   </Label>
+  <Label item="CSPW_Spell7_Name_BG">
+    <ScreenID>CSPW_Spell7_Name_BG</ScreenID>
+    <Font>1</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>294</X>
+      <Y>15</Y>
+    </Location>
+    <Size>
+      <CX>42</CX>
+      <CY>24</CY>
+    </Size>
+    <EQType>67</EQType>
+    <TextColor>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+    </TextColor>
+    <NoWrap>false</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </Label>
   <SpellGem item="CSPW_Spell8">
     <ScreenID>CSPW_Spell8</ScreenID>
     <Location>
@@ -418,6 +595,28 @@
     <AlignCenter>true</AlignCenter>
     <AlignRight>false</AlignRight>
   </Label>
+    <Label item="CSPW_Spell0_No_BG">
+    <ScreenID>CSPW_Spell0_No_BG</ScreenID>
+    <Font>3</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>1</X>
+      <Y>1</Y>
+    </Location>
+    <Size>
+      <CX>40</CX>
+      <CY>15</CY>
+    </Size>
+    <Text>1</Text>
+    <TextColor>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+    </TextColor>
+    <NoWrap>true</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </Label>
   <Label item="CSPW_Spell1_No">
     <ScreenID>CSPW_Spell1_No</ScreenID>
     <Font>3</Font>
@@ -435,6 +634,28 @@
       <R>255</R>
       <G>255</G>
       <B>255</B>
+    </TextColor>
+    <NoWrap>true</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </Label>
+    <Label item="CSPW_Spell1_No_BG">
+    <ScreenID>CSPW_Spell1_No_BG</ScreenID>
+    <Font>3</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>43</X>
+      <Y>1</Y>
+    </Location>
+    <Size>
+      <CX>40</CX>
+      <CY>15</CY>
+    </Size>
+    <Text>2</Text>
+    <TextColor>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
     </TextColor>
     <NoWrap>true</NoWrap>
     <AlignCenter>true</AlignCenter>
@@ -462,6 +683,28 @@
     <AlignCenter>true</AlignCenter>
     <AlignRight>false</AlignRight>
   </Label>
+    <Label item="CSPW_Spell2_No_BG">
+    <ScreenID>CSPW_Spell2_No_BG</ScreenID>
+    <Font>3</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>85</X>
+      <Y>1</Y>
+    </Location>
+    <Size>
+      <CX>40</CX>
+      <CY>15</CY>
+    </Size>
+    <Text>3</Text>
+    <TextColor>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+    </TextColor>
+    <NoWrap>true</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </Label>
   <Label item="CSPW_Spell3_No">
     <ScreenID>CSPW_Spell3_No</ScreenID>
     <Font>3</Font>
@@ -479,6 +722,28 @@
       <R>255</R>
       <G>255</G>
       <B>255</B>
+    </TextColor>
+    <NoWrap>true</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </Label>
+    <Label item="CSPW_Spell3_No_BG">
+    <ScreenID>CSPW_Spell3_No_BG</ScreenID>
+    <Font>3</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>127</X>
+      <Y>1</Y>
+    </Location>
+    <Size>
+      <CX>40</CX>
+      <CY>15</CY>
+    </Size>
+    <Text>4</Text>
+    <TextColor>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
     </TextColor>
     <NoWrap>true</NoWrap>
     <AlignCenter>true</AlignCenter>
@@ -506,6 +771,28 @@
     <AlignCenter>true</AlignCenter>
     <AlignRight>false</AlignRight>
   </Label>
+    <Label item="CSPW_Spell4_No_BG">
+    <ScreenID>CSPW_Spell4_No_BG</ScreenID>
+    <Font>3</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>169</X>
+      <Y>1</Y>
+    </Location>
+    <Size>
+      <CX>40</CX>
+      <CY>15</CY>
+    </Size>
+    <Text>5</Text>
+    <TextColor>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+    </TextColor>
+    <NoWrap>true</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </Label>
   <Label item="CSPW_Spell5_No">
     <ScreenID>CSPW_Spell5_No</ScreenID>
     <Font>3</Font>
@@ -523,6 +810,28 @@
       <R>255</R>
       <G>255</G>
       <B>255</B>
+    </TextColor>
+    <NoWrap>true</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </Label>
+    <Label item="CSPW_Spell5_No_BG">
+    <ScreenID>CSPW_Spell5_No_BG</ScreenID>
+    <Font>3</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>211</X>
+      <Y>1</Y>
+    </Location>
+    <Size>
+      <CX>40</CX>
+      <CY>15</CY>
+    </Size>
+    <Text>6</Text>
+    <TextColor>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
     </TextColor>
     <NoWrap>true</NoWrap>
     <AlignCenter>true</AlignCenter>
@@ -550,6 +859,28 @@
     <AlignCenter>true</AlignCenter>
     <AlignRight>false</AlignRight>
   </Label>
+    <Label item="CSPW_Spell6_No_BG">
+    <ScreenID>CSPW_Spell6_No_BG</ScreenID>
+    <Font>3</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>252</X>
+      <Y>1</Y>
+    </Location>
+    <Size>
+      <CX>40</CX>
+      <CY>15</CY>
+    </Size>
+    <Text>7</Text>
+    <TextColor>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+    </TextColor>
+    <NoWrap>true</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </Label>
   <Label item="CSPW_Spell7_No">
     <ScreenID>CSPW_Spell7_No</ScreenID>
     <Font>3</Font>
@@ -567,6 +898,28 @@
       <R>255</R>
       <G>255</G>
       <B>255</B>
+    </TextColor>
+    <NoWrap>true</NoWrap>
+    <AlignCenter>true</AlignCenter>
+    <AlignRight>false</AlignRight>
+  </Label>
+    <Label item="CSPW_Spell7_No_BG">
+    <ScreenID>CSPW_Spell7_No_BG</ScreenID>
+    <Font>3</Font>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>295</X>
+      <Y>1</Y>
+    </Location>
+    <Size>
+      <CX>40</CX>
+      <CY>15</CY>
+    </Size>
+    <Text>8</Text>
+    <TextColor>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
     </TextColor>
     <NoWrap>true</NoWrap>
     <AlignCenter>true</AlignCenter>
@@ -605,6 +958,16 @@
     <Pieces>CSPW_Spell7</Pieces>
     <Pieces>CSPW_Spell8</Pieces>
     <Pieces>CSPW_SpellBook</Pieces>
+    <!-- Name shadows -->
+    <Pieces>CSPW_Spell0_Name_BG</Pieces>
+    <Pieces>CSPW_Spell1_Name_BG</Pieces>
+    <Pieces>CSPW_Spell2_Name_BG</Pieces>
+    <Pieces>CSPW_Spell3_Name_BG</Pieces>
+    <Pieces>CSPW_Spell4_Name_BG</Pieces>
+    <Pieces>CSPW_Spell5_Name_BG</Pieces>
+    <Pieces>CSPW_Spell6_Name_BG</Pieces>
+    <Pieces>CSPW_Spell7_Name_BG</Pieces>
+    <!-- Spell Names -->
     <Pieces>CSPW_Spell0_Name</Pieces>
     <Pieces>CSPW_Spell1_Name</Pieces>
     <Pieces>CSPW_Spell2_Name</Pieces>
@@ -613,6 +976,15 @@
     <Pieces>CSPW_Spell5_Name</Pieces>
     <Pieces>CSPW_Spell6_Name</Pieces>
     <Pieces>CSPW_Spell7_Name</Pieces>
+    <!-- Number Shadows -->
+    <Pieces>CSPW_Spell0_No_BG</Pieces>
+    <Pieces>CSPW_Spell1_No_BG</Pieces>
+    <Pieces>CSPW_Spell2_No_BG</Pieces>
+    <Pieces>CSPW_Spell3_No_BG</Pieces>
+    <Pieces>CSPW_Spell4_No_BG</Pieces>
+    <Pieces>CSPW_Spell5_No_BG</Pieces>
+    <Pieces>CSPW_Spell6_No_BG</Pieces>
+    <Pieces>CSPW_Spell7_No_BG</Pieces>
     <!-- Spell Number Labels -->
     <Pieces>CSPW_Spell0_No</Pieces>
     <Pieces>CSPW_Spell1_No</Pieces>
