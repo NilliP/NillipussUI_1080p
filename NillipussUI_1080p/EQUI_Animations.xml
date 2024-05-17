@@ -580,8 +580,8 @@
         <Y>0</Y>
       </Location>
       <Size>
-        <CX>22</CX>
-        <CY>33</CY>
+        <CX>14</CX>
+        <CY>21</CY>
       </Size>
       <Hotspot>
         <X>0</X>
@@ -599,12 +599,12 @@
         <Y>0</Y>
       </Location>
       <Size>
-        <CX>37</CX>
-        <CY>17</CY>
+        <CX>25</CX>
+        <CY>11</CY>
       </Size>
       <Hotspot>
-        <X>19</X>
-        <Y>8</Y>
+        <X>12</X>
+        <Y>5</Y>
       </Hotspot>
       <Duration>1000</Duration>
     </Frames>
@@ -618,12 +618,12 @@
         <Y>0</Y>
       </Location>
       <Size>
-        <CX>26</CX>
-        <CY>26</CY>
+        <CX>17</CX>
+        <CY>17</CY>
       </Size>
       <Hotspot>
-        <X>13</X>
-        <Y>13</Y>
+        <X>8</X>
+        <Y>8</Y>
       </Hotspot>
       <Duration>1000</Duration>
     </Frames>
@@ -637,12 +637,12 @@
         <Y>0</Y>
       </Location>
       <Size>
-        <CX>17</CX>
-        <CY>37</CY>
+        <CX>11</CX>
+        <CY>25</CY>
       </Size>
       <Hotspot>
-        <X>8</X>
-        <Y>18</Y>
+        <X>5</X>
+        <Y>12</Y>
       </Hotspot>
       <Duration>1000</Duration>
     </Frames>
@@ -656,12 +656,12 @@
         <Y>0</Y>
       </Location>
       <Size>
-        <CX>26</CX>
-        <CY>26</CY>
+        <CX>17</CX>
+        <CY>17</CY>
       </Size>
       <Hotspot>
-        <X>13</X>
-        <Y>13</Y>
+        <X>8</X>
+        <Y>8</Y>
       </Hotspot>
       <Duration>1000</Duration>
     </Frames>
@@ -675,12 +675,12 @@
         <Y>0</Y>
       </Location>
       <Size>
-        <CX>35</CX>
-        <CY>35</CY>
+        <CX>31</CX>
+        <CY>31</CY>
       </Size>
       <Hotspot>
-        <X>18</X>
-        <Y>18</Y>
+        <X>15</X>
+        <Y>15</Y>
       </Hotspot>
       <Duration>1000</Duration>
     </Frames>
