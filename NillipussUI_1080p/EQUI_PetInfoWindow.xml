@@ -286,71 +286,38 @@
       <PressedFlyby>A_BtnPressedFlyby</PressedFlyby>
     </ButtonDrawTemplate>
   </Button>
-  <Button item="PIW_SitButton">
-    <ScreenID>SitButton</ScreenID>
-    <!--<Font>3</Font>-->
-    <RelativePosition>true</RelativePosition>
-    <Location>
-      <X>68</X>
-      <Y>81</Y>
-    </Location>
-    <Size>
-      <CX>61</CX>
-      <CY>20</CY>
-    </Size>
-    <Style_VScroll>false</Style_VScroll>
-    <Style_HScroll>false</Style_HScroll>
-    <Style_Transparent>false</Style_Transparent>
-    <TooltipReference>Pet Sit Down</TooltipReference>
-    <Style_Checkbox>false</Style_Checkbox>
-    <!--<RadioGroup/>-->
-    <Text>Sit</Text>
-    <TextColor>
-      <R>255</R>
-      <G>255</G>
-      <B>255</B>
-    </TextColor>
-    <ButtonDrawTemplate>
-      <Normal>A_BtnNormal</Normal>
-      <Pressed>A_BtnPressed</Pressed>
-      <Flyby>A_BtnFlyby</Flyby>
-      <Disabled>A_BtnDisabled</Disabled>
-      <PressedFlyby>A_BtnPressedFlyby</PressedFlyby>
-    </ButtonDrawTemplate>
-  </Button>
-  <!-- The stand button will ignore its own size/location and always be under the sit button (for smooth toggling) -->
-  <Button item="PIW_StandButton">
-    <ScreenID>StandButton</ScreenID>
-    <!--<Font>3</Font>-->
-    <RelativePosition>true</RelativePosition>
-    <Location>
-      <X>68</X>
-      <Y>81</Y>
-    </Location>
-    <Size>
-      <CX>61</CX>
-      <CY>20</CY>
-    </Size>
-    <Style_VScroll>false</Style_VScroll>
-    <Style_HScroll>false</Style_HScroll>
-    <Style_Transparent>false</Style_Transparent>
-    <TooltipReference>Pet Stand Up</TooltipReference>
-    <Style_Checkbox>false</Style_Checkbox>
-    <!--<RadioGroup/>-->
-    <Text>Stand</Text>
-    <TextColor>
-      <R>255</R>
-      <G>255</G>
-      <B>255</B>
-    </TextColor>
-    <ButtonDrawTemplate>
-      <Normal>A_BtnNormal</Normal>
-      <Pressed>A_BtnPressed</Pressed>
-      <Flyby>A_BtnFlyby</Flyby>
-      <Disabled>A_BtnDisabled</Disabled>
-      <PressedFlyby>A_BtnPressedFlyby</PressedFlyby>
-    </ButtonDrawTemplate>
-  </Button>
+	<Button item = "PIW_SitButton">
+		<ScreenID>SitButton</ScreenID>
+		<!--<Font>3</Font>-->
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>68</X>
+			<Y>81</Y>
+		</Location>
+		<Size>
+			<CX>61</CX>
+			<CY>20</CY>
+		</Size>
+		<Style_VScroll>false</Style_VScroll>
+		<Style_HScroll>false</Style_HScroll>
+		<Style_Transparent>false</Style_Transparent>
+		<TooltipReference>Pet Sit Down/Pet Stand Up</TooltipReference>
+		<Style_Checkbox>false</Style_Checkbox>
+		<!--<RadioGroup/>-->
+		<Text>Sit</Text>
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<ButtonDrawTemplate>
+			<Normal>A_BtnNormal</Normal>
+			<Pressed>A_BtnPressed</Pressed>
+			<Flyby>A_BtnFlyby</Flyby>
+			<Disabled>A_BtnDisabled</Disabled>
+			<PressedFlyby>A_BtnPressedFlyby</PressedFlyby>
+		</ButtonDrawTemplate>
+	</Button>
   <Button item="PIW_BackButton">
     <ScreenID>BackButton</ScreenID>
     <!--<Font>3</Font>-->
@@ -1209,7 +1176,7 @@
     <Style_Minimizebox>true</Style_Minimizebox>
     <Style_Border>true</Style_Border>
     <Style_Sizable>false</Style_Sizable>
-    <Pieces>PIW_BuffWindow</Pieces>
+    <!--<Pieces>PIW_BuffWindow</Pieces>-->
     <Pieces>PIW_AttackButton</Pieces>
     <Pieces>PIW_LostButton</Pieces>
     <Pieces>PIW_BackButton</Pieces>
@@ -1217,7 +1184,7 @@
     <Pieces>PIW_FollowButton</Pieces>
     <Pieces>PIW_TauntButton</Pieces>
     <Pieces>PIW_SitButton</Pieces>
-    <Pieces>PIW_StandButton</Pieces>
+    <!--<Pieces>PIW_StandButton</Pieces>-->
     <Pieces>Pet_HP_BG</Pieces>
     <Pieces>Pet_HP_0</Pieces>
     <Pieces>Pet_HP_1A_X</Pieces>
