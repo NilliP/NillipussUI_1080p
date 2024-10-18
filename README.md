@@ -10,7 +10,7 @@ NillipussUI is a custom user interface for Quarm, an Everquest emulator. This 10
 - Type `/load nillipussui_1080p 1` in-game to select it.
 
 ### Requirements
-[Zeal](https://github.com/iamclint/Zeal/releases) (Download the Zeal.v######.zip and extract **Zeal.asi** to your Quarm folder.)
+[Zeal](https://github.com/iamclint/Zeal/releases) is required to display various elements, detailed installation instructions found [here](https://github.com/iamclint/Zeal?tab=readme-ov-file#installation)
 
 
 ### Features
