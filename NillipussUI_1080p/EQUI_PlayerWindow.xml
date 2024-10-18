@@ -1775,7 +1775,7 @@
   <!-- Mana Timer -->
     <Ui2DAnimation item="A_PlayerWindow_Timer_1">
 		<Cycle>true</Cycle>
-		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>120</Y></Location><Size><CX>40</CX><CY>19</CY></Size><Duration>1000</Duration></Frames>
+		<Frames><Texture>dzbars.png</Texture><Location><X>215</X><Y>29</Y></Location><Size><CX>40</CX><CY>19</CY></Size><Duration>1000</Duration></Frames>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1000</Duration></Frames>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1003</Duration></Frames>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1003</Duration></Frames>
@@ -1785,7 +1785,7 @@
 	<Ui2DAnimation item="A_PlayerWindow_Timer_2">
 		<Cycle>true</Cycle>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y> </Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1000</Duration></Frames>
-		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>120</Y></Location><Size><CX>40</CX><CY>19</CY></Size><Duration>1000</Duration></Frames>
+		<Frames><Texture>dzbars.png</Texture><Location><X>215</X><Y>29</Y></Location><Size><CX>40</CX><CY>19</CY></Size><Duration>1000</Duration></Frames>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1003</Duration></Frames>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1003</Duration></Frames>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1003</Duration></Frames>
@@ -1795,7 +1795,7 @@
 		<Cycle>true</Cycle>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1000</Duration></Frames>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1000</Duration></Frames>
-		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>120</Y></Location><Size><CX>40</CX><CY>19</CY></Size><Duration>1003</Duration></Frames>
+		<Frames><Texture>dzbars.png</Texture><Location><X>215</X><Y>29</Y></Location><Size><CX>40</CX><CY>19</CY></Size><Duration>1003</Duration></Frames>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1003</Duration></Frames>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1003</Duration></Frames>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1003</Duration></Frames>
@@ -1805,7 +1805,7 @@
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1000</Duration></Frames>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1000</Duration></Frames>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1003</Duration></Frames>
-		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>120</Y></Location><Size><CX>40</CX><CY>19</CY></Size><Duration>1003</Duration></Frames>
+		<Frames><Texture>dzbars.png</Texture><Location><X>215</X><Y>29</Y></Location><Size><CX>40</CX><CY>19</CY></Size><Duration>1003</Duration></Frames>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1003</Duration></Frames>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1003</Duration></Frames>
 	</Ui2DAnimation>
@@ -1815,7 +1815,7 @@
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1000</Duration></Frames>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1003</Duration></Frames>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1003</Duration></Frames>
-		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>120</Y></Location><Size><CX>40</CX><CY>19</CY></Size><Duration>1003</Duration></Frames>
+		<Frames><Texture>dzbars.png</Texture><Location><X>215</X><Y>29</Y></Location><Size><CX>40</CX><CY>19</CY></Size><Duration>1003</Duration></Frames>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1003</Duration></Frames>
 	</Ui2DAnimation>
 	<Ui2DAnimation item="A_PlayerWindow_Timer_6">
@@ -1825,17 +1825,17 @@
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1003</Duration></Frames>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1003</Duration></Frames>
 		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>0</Y></Location><Size><CX>1</CX><CY>1</CY></Size><Duration>1003</Duration></Frames>
-		<Frames><Texture>dzbars.png</Texture><Location><X>0</X><Y>120</Y></Location><Size><CX>40</CX><CY>19</CY></Size><Duration>1003</Duration></Frames>
+		<Frames><Texture>dzbars.png</Texture><Location><X>215</X><Y>29</Y></Location><Size><CX>40</CX><CY>19</CY></Size><Duration>1003</Duration></Frames>
 	</Ui2DAnimation>
   <Gauge item="PW_Timer_1">
     <EQType>2</EQType>
     <Location>
       <X>16</X>
-      <Y>47</Y>
+      <Y>46</Y>
     </Location>
     <Size>
       <CX>40</CX>
-      <CY>2</CY>
+      <CY>4</CY>
     </Size>
     <GaugeDrawTemplate>
       <Background>A_PlayerWindow_Timer_1</Background>
@@ -1846,11 +1846,11 @@
     <EQType>2</EQType>
     <Location>
       <X>56</X>
-      <Y>47</Y>
+      <Y>46</Y>
     </Location>
     <Size>
       <CX>40</CX>
-      <CY>2</CY>
+      <CY>4</CY>
     </Size>
     <GaugeDrawTemplate>
       <Background>A_PlayerWindow_Timer_2</Background>
@@ -1861,11 +1861,11 @@
     <EQType>2</EQType>
     <Location>
       <X>96</X>
-      <Y>47</Y>
+      <Y>46</Y>
     </Location>
     <Size>
       <CX>40</CX>
-      <CY>2</CY>
+      <CY>4</CY>
     </Size>
     <GaugeDrawTemplate>
       <Background>A_PlayerWindow_Timer_3</Background>
@@ -1876,11 +1876,11 @@
     <EQType>2</EQType>
     <Location>
       <X>136</X>
-      <Y>47</Y>
+      <Y>46</Y>
     </Location>
     <Size>
       <CX>40</CX>
-      <CY>2</CY>
+      <CY>4</CY>
     </Size>
     <GaugeDrawTemplate>
       <Background>A_PlayerWindow_Timer_4</Background>
@@ -1891,11 +1891,11 @@
     <EQType>2</EQType>
     <Location>
       <X>176</X>
-      <Y>47</Y>
+      <Y>46</Y>
     </Location>
     <Size>
       <CX>40</CX>
-      <CY>2</CY>
+      <CY>4</CY>
     </Size>
     <GaugeDrawTemplate>
       <Background>A_PlayerWindow_Timer_5</Background>
@@ -1906,11 +1906,11 @@
     <EQType>2</EQType>
     <Location>
       <X>216</X>
-      <Y>47</Y>
+      <Y>46</Y>
     </Location>
     <Size>
       <CX>40</CX>
-      <CY>2</CY>
+      <CY>4</CY>
     </Size>
     <GaugeDrawTemplate>
       <Background>A_PlayerWindow_Timer_6</Background>
@@ -1924,8 +1924,8 @@
 		<Frames>
 			<Texture>dzbars.png</Texture>
 			<Location>
-				<X>214</X>
-				<Y>13</Y>
+				<X>215</X>
+				<Y>0</Y>
 			</Location>
 			<Size>
 				<CX>40</CX>
