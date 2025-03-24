@@ -12680,6 +12680,23 @@
       </Hotspot>
     </Frames>
   </Ui2DAnimation>
+  <Ui2DAnimation item="Nilli_Bag">
+    <Frames>
+      <Texture>dzbuttons.png</Texture>
+      <Location>
+        <X>151</X>
+        <Y>216</Y>
+      </Location>
+      <Size>
+        <CX>30</CX>
+        <CY>30</CY>
+      </Size>
+      <Hotspot>
+        <X>0</X>
+        <Y>0</Y>
+      </Hotspot>
+    </Frames>
+  </Ui2DAnimation>
   <Ui2DAnimation item="A_dzBag">
     <Frames>
       <Texture>dzbuttons.png</Texture>
