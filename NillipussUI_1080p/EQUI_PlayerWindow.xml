@@ -1182,7 +1182,7 @@
     <RelativePosition>true</RelativePosition>
     <Location>
       <X>145</X>
-      <Y>73</Y>
+      <Y>85</Y>
     </Location>
     <Size>
       <CX>69</CX>
@@ -1205,7 +1205,7 @@
     <RelativePosition>true</RelativePosition>
     <Location>
       <X>146</X>
-      <Y>74</Y>
+      <Y>86</Y>
     </Location>
     <Size>
       <CX>69</CX>
@@ -1414,7 +1414,7 @@
     <RelativePosition>true</RelativePosition>
     <Location>
       <X>16</X>
-      <Y>73</Y>
+      <Y>85</Y>
     </Location>
     <Size>
       <CX>36</CX>
@@ -1437,7 +1437,7 @@
     <RelativePosition>true</RelativePosition>
     <Location>
       <X>17</X>
-      <Y>74</Y>
+      <Y>86</Y>
     </Location>
     <Size>
       <CX>36</CX>
@@ -1461,7 +1461,7 @@
     <RelativePosition>true</RelativePosition>
     <Location>
       <X>51</X>
-      <Y>73</Y>
+      <Y>85</Y>
     </Location>
     <Size>
       <CX>50</CX>
@@ -1485,7 +1485,7 @@
     <RelativePosition>true</RelativePosition>
     <Location>
       <X>52</X>
-      <Y>74</Y>
+      <Y>86</Y>
     </Location>
     <Size>
       <CX>50</CX>
@@ -1508,7 +1508,7 @@
     <RelativePosition>true</RelativePosition>
     <Location>
       <X>181</X>
-      <Y>73</Y>
+      <Y>85</Y>
     </Location>
     <Size>
       <CX>25</CX>
@@ -1531,7 +1531,7 @@
     <RelativePosition>true</RelativePosition>
     <Location>
       <X>182</X>
-      <Y>74</Y>
+      <Y>86</Y>
     </Location>
     <Size>
       <CX>25</CX>
@@ -1555,7 +1555,7 @@
     <RelativePosition>true</RelativePosition>
     <Location>
       <X>200</X>
-      <Y>73</Y>
+      <Y>85</Y>
     </Location>
     <Size>
       <CX>25</CX>
@@ -1577,7 +1577,7 @@
     <RelativePosition>true</RelativePosition>
     <Location>
       <X>223</X>
-      <Y>73</Y>
+      <Y>85</Y>
     </Location>
     <Size>
       <CX>10</CX>
@@ -1599,7 +1599,7 @@
     <RelativePosition>true</RelativePosition>
     <Location>
       <X>224</X>
-      <Y>74</Y>
+      <Y>86</Y>
     </Location>
     <Size>
       <CX>10</CX>
@@ -1622,7 +1622,7 @@
     <RelativePosition>true</RelativePosition>
     <Location>
       <X>231</X>
-      <Y>73</Y>
+      <Y>85</Y>
     </Location>
     <Size>
       <CX>25</CX>
@@ -1645,7 +1645,7 @@
     <RelativePosition>true</RelativePosition>
     <Location>
       <X>232</X>
-      <Y>74</Y>
+      <Y>86</Y>
     </Location>
     <Size>
       <CX>25</CX>
@@ -1667,7 +1667,7 @@
     <RelativePosition>true</RelativePosition>
     <Location>
       <X>16</X>
-      <Y>73</Y>
+      <Y>85</Y>
     </Location>
     <Size>
       <CX>215</CX>
@@ -1689,7 +1689,7 @@
     <RelativePosition>true</RelativePosition>
     <Location>
       <X>17</X>
-      <Y>74</Y>
+      <Y>86</Y>
     </Location>
     <Size>
       <CX>215</CX>
@@ -2521,6 +2521,88 @@
       <!--<Lines>A_dzThinLongLines</Lines>-->
     </GaugeDrawTemplate>
   </Gauge>
+  <!-- AA Bar -->
+  <Gauge item="PW_AAExpGauge">
+    <ScreenID>AAExpGauge</ScreenID>
+    <!--<Font>3</Font>-->
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>16</X>
+      <Y>73</Y>
+    </Location>
+    <Size>
+      <CX>240</CX>
+      <CY>11</CY>
+    </Size>
+    <GaugeOffsetY>0</GaugeOffsetY>
+    <GaugeOffsetX>0</GaugeOffsetX>
+    <Style_VScroll>false</Style_VScroll>
+    <Style_HScroll>false</Style_HScroll>
+    <Style_Transparent>false</Style_Transparent>
+    <!--<TooltipReference/>-->
+    <FillTint>
+      <R>220</R>
+      <G>150</G>
+      <B>255</B>
+    </FillTint>
+    <LinesFillTint>
+      <R>0</R>
+      <G>80</G>
+      <B>220</B>
+    </LinesFillTint>
+    <DrawLinesFill>true</DrawLinesFill>
+    <EQType>5</EQType>
+    <GaugeDrawTemplate>
+      <Background>A_SpellBG</Background>
+      <Fill>A_dzThinLongFill</Fill>
+      <!--<Lines>A_dzThinLongLines</Lines>-->
+      <LinesFill>A_dzThinLongLines</LinesFill>
+    </GaugeDrawTemplate>
+  </Gauge>
+  <Label item="PW_AAEXP_Percentage">
+    <Font>3</Font>
+    <EQType>27</EQType>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>254</X>
+      <Y>71</Y>
+    </Location>
+    <Size>
+      <CX>25</CX>
+      <CY>12</CY>
+    </Size>
+    <Text>100</Text>
+    <TextColor>
+      <R>240</R>
+      <G>240</G>
+      <B>240</B>
+    </TextColor>
+    <NoWrap>true</NoWrap>
+    <AlignCenter>false</AlignCenter>
+    <AlignRight>true</AlignRight>
+  </Label>
+  <Label item="PW_AAEXP_PercentageBG">
+    <Font>3</Font>
+    <EQType>27</EQType>
+    <RelativePosition>true</RelativePosition>
+    <Location>
+      <X>255</X>
+      <Y>72</Y>
+    </Location>
+    <Size>
+      <CX>25</CX>
+      <CY>12</CY>
+    </Size>
+    <Text>100</Text>
+    <TextColor>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+    </TextColor>
+    <NoWrap>true</NoWrap>
+    <AlignCenter>false</AlignCenter>
+    <AlignRight>true</AlignRight>
+  </Label>
   <!--***************************************************************-->
   <Screen item="PlayerWindow">
     <!--<ScreenID/>-->
@@ -2531,7 +2613,7 @@
     </Location>
     <Size>
       <CX>288</CX>
-      <CY>100</CY>
+      <CY>107</CY>
     </Size>
     <Text>255</Text>
     <Style_VScroll>false</Style_VScroll>
@@ -2625,5 +2707,8 @@
     <!--<Pieces>PW_AALabelBG</Pieces>
   <Pieces>PW_AALabel</Pieces>-->
     <Pieces>Zeal_Tick</Pieces>
+    <Pieces>PW_AAExpGauge</Pieces>
+    <Pieces>PW_AAEXP_PercentageBG</Pieces>
+    <Pieces>PW_AAEXP_Percentage</Pieces>
   </Screen>
 </XML>
