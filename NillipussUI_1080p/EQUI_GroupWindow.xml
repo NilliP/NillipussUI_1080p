@@ -574,7 +574,7 @@
   </StaticAnimation>
   <!-- Party2 -->
   <Gauge item="Party2_HP_BG">
-    <ScreenID>Gauge1</ScreenID>
+    <ScreenID>Gauge2</ScreenID>
     <TextColor>
       <R>240</R>
       <G>240</G>
@@ -1017,7 +1017,7 @@
   </StaticAnimation>
   <!-- Party3 -->
   <Gauge item="Party3_HP_BG">
-    <ScreenID>Gauge1</ScreenID>
+    <ScreenID>Gauge3</ScreenID>
     <TextColor>
       <R>240</R>
       <G>240</G>
@@ -1460,7 +1460,7 @@
   </StaticAnimation>
   <!-- Party4 -->
   <Gauge item="Party4_HP_BG">
-    <ScreenID>Gauge1</ScreenID>
+    <ScreenID>Gauge4</ScreenID>
     <TextColor>
       <R>240</R>
       <G>240</G>
@@ -1903,7 +1903,7 @@
   </StaticAnimation>
   <!-- Party5 -->
   <Gauge item="Party5_HP_BG">
-    <ScreenID>Gauge1</ScreenID>
+    <ScreenID>Gauge5</ScreenID>
     <TextColor>
       <R>240</R>
       <G>240</G>
